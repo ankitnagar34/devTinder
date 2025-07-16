@@ -1,11 +1,10 @@
-# 🚀 DevTinder – Connect with Developers Like Never Before!
+# 🚀 MatchMate – Connect with Developers Like Never Before!
 
 ## 🔥 Overview
 
-DevTinder is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
-
-🚀 **Live Demo**: [https://devtinder-remo.vercel.app](https://devtinder-remo.vercel.app)  
-📌 **GitHub Repository**: [DevTinder Repo](https://github.com/sharadindudas/devtinder)
+MatchMate is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
+ 
+📌 **GitHub Repository**: [MatchMate Repo](https://github.com/ankitnagar34/MatchMate)
 
 ## ✨ Features
 
@@ -81,5 +80,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📫 Contact
 
-👨‍💻 **Author:** [Sharadindu Das](https://github.com/sharadindudas)  
-📧 **Email:** sharadindudas774@gmail.com
+👨‍💻 **Author:** [Sharadindu Das](https://github.com/ankitnagar34)  
+📧 **Email:** ankitnagar9211@gmail.com
