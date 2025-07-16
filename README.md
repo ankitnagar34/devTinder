@@ -80,5 +80,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## 📫 Contact
 
-👨‍💻 **Author:** [Sharadindu Das](https://github.com/ankitnagar34)  
+👨‍💻 **Author:** [Ankit Nagar](https://github.com/ankitnagar34)  
 📧 **Email:** ankitnagar9211@gmail.com
