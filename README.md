@@ -1,10 +1,10 @@
-# 🚀 MatchMate – Connect with Developers Like Never Before!
+# 🚀 devTinder – Connect with Developers Like Never Before!
 
 ## 🔥 Overview
 
-MatchMate is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
+devTinder is a **developer networking platform** where tech enthusiasts can **connect, chat, and collaborate** based on mutual interest. Inspired by Tinder, it lets users **swipe left to ignore and right to connect**, with real-time chat features powered by **Socket.io**.
  
-📌 **GitHub Repository**: [MatchMate Repo](https://github.com/ankitnagar34/MatchMate)
+📌 **GitHub Repository**: [devTinder Repo](https://github.com/ankitnagar34/devTinder)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ MatchMate is a **developer networking platform** where tech enthusiasts can **co
 ## 📂 Project Structure
 
 ```bash
-devtinder/
+devTinder/
 │── frontend/    # Frontend (React, TypeScript, Zustand, Tailwind CSS, DaisyUi)
 │── backend/     # Backend (Node.js, Express, MongoDB, TypeScript, Socket.io)
 │── README.md    # Documentation
@@ -34,8 +34,8 @@ devtinder/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/sharadindudas/devtinder.git
-cd devtinder
+git clone https://github.com/ankitnagar34/devTinder.git
+cd devTinder
 ```
 
 ### 2️⃣ Install dependencies
